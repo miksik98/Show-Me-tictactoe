@@ -14,3 +14,6 @@ virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Authors
+Arkadiusz Kraus, Mikołaj Sikora
